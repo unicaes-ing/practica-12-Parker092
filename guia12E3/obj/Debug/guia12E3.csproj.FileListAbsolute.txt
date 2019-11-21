@@ -1,0 +1,6 @@
+C:\Users\PARKER(L)\Documents\Practicas PE 2019\guia12E3\guia12E3\bin\Debug\guia12E3.exe.config
+C:\Users\PARKER(L)\Documents\Practicas PE 2019\guia12E3\guia12E3\bin\Debug\guia12E3.exe
+C:\Users\PARKER(L)\Documents\Practicas PE 2019\guia12E3\guia12E3\bin\Debug\guia12E3.pdb
+C:\Users\PARKER(L)\Documents\Practicas PE 2019\guia12E3\guia12E3\obj\Debug\guia12E3.csprojAssemblyReference.cache
+C:\Users\PARKER(L)\Documents\Practicas PE 2019\guia12E3\guia12E3\obj\Debug\guia12E3.exe
+C:\Users\PARKER(L)\Documents\Practicas PE 2019\guia12E3\guia12E3\obj\Debug\guia12E3.pdb
